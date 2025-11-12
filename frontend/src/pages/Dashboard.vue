@@ -143,7 +143,7 @@ const weeklyCost = computed(() => {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #2f7057;
   flex: 1 1 200px;
   display: flex;
   align-items: center;
@@ -165,14 +165,14 @@ const weeklyCost = computed(() => {
 .info h3 {
   margin: 0;
   font-size: 1.2rem;
-  color: #8B2E1D;
+  color: #fff;
 }
 
 .info p {
   margin: 0.25rem 0 0 0;
   font-size: 1.2rem;
   font-weight: 500;
-  color: #3F2E2E;
+  color: #fff;
 }
 
 /* Chart Container */

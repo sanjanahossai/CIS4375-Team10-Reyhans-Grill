@@ -146,7 +146,7 @@ const filteredMaterials = computed(() =>
   padding: 0.6rem 1.2rem;
   border: none;
   border-radius: 12px;
-  background-color: #D97706;
+  background-color: #2f7057;
   color: #fff;
   font-weight: 600;
   cursor: pointer;
@@ -181,7 +181,7 @@ const filteredMaterials = computed(() =>
 }
 
 .add-form button {
-  background-color: #D97706;
+  background-color: #2f7057;
   color: white;
   border: none;
   padding: 0.6rem 1.2rem;

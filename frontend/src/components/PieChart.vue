@@ -14,7 +14,7 @@ const chartData = {
   labels: ['Meat', 'Vegetables', 'Sauce', 'Other'],
   datasets: [
     {
-      backgroundColor: ['#8B2E1D', '#D97706', '#FBBF24', '#FCD34D'],
+      backgroundColor: ['#235340', '#4BB48C', '#8CCFB5', '#EDF7F3'],
       data: [40, 30, 20, 10]
     }
   ]
